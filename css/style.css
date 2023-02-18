@@ -66,13 +66,6 @@ img {
     border-bottom: 2px #fff solid;
 }
 
-/* Backgrouds & colored buttons */
-.bg-primary, 
-.btn-primary {
-    background-color: var(--primary-color);
-    color: #fff;
-}
-
 .navbar .flex {
     justify-content: space-between;
 }
