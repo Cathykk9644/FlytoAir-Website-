@@ -170,3 +170,9 @@ img {
 .cloud .grid {
     grid-template-columns: 4fr 3fr;
 }
+
+/* Languages */
+.language .card {
+    text-align: center;
+    margin: 18px 10px 40px;
+}
