@@ -172,7 +172,17 @@ img {
 }
 
 /* Languages */
-.language .card {
+.languages .flex {
+    flex-wrap: wrap;
+}
+
+
+.languages .card {
     text-align: center;
     margin: 18px 10px 40px;
 }
+
+.languages .card h4 {
+    font-size: 20px;
+}
+
