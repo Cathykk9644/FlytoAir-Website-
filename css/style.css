@@ -269,7 +269,6 @@ pre {
         transform: translateX(0);
     }
 }
-
 @keyframes slideInFromRight {
     0% {
         transform: translateX(100%);
@@ -320,13 +319,13 @@ pre {
     .showcase-text {
         text-align: center;
         margin-top: 50px;
-        animation: slideInFromTop 1s ease-in;
+        animation: slideInFromTop 1.2s ease-in;
     }
 
     .showcase-form {
         justify-self: center;
         margin: auto;
-        animation: slideInFromBottom 1s ease-in;
+        animation: slideInFromBottom 1.2s ease-in;
     }
 
     .cli .grid > *:first-child {
