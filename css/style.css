@@ -100,7 +100,7 @@ pre {
 }
 
 .showcase-text {
-    animation: slideInFromLeft 1.2s ease-in;
+    animation: slideInFromLeft 1s ease-in;
 }
 
 .showcase-form {
@@ -110,7 +110,7 @@ pre {
     width: 400px;
     padding: 40px;
     z-index: 100;
-    animation: slideInFromRight 1.2s ease-in;
+    animation: slideInFromRight 1s ease-in;
 
 }
 
@@ -319,13 +319,13 @@ pre {
     .showcase-text {
         text-align: center;
         margin-top: 50px;
-        animation: slideInFromTop 1.2s ease-in;
+        animation: slideInFromTop 1s ease-in;
     }
 
     .showcase-form {
         justify-self: center;
         margin: auto;
-        animation: slideInFromBottom 1.2s ease-in;
+        animation: slideInFromBottom 1s ease-in;
     }
 
     .cli .grid > *:first-child {
