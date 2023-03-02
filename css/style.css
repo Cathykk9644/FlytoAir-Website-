@@ -100,7 +100,7 @@ pre {
 }
 
 .showcase-text {
-    animation: slideInFromLeft 1s ease-in;
+    animation: slideInFromLeft 1.2s ease-in;
 }
 
 .showcase-form {
@@ -110,7 +110,7 @@ pre {
     width: 400px;
     padding: 40px;
     z-index: 100;
-    animation: slideInFromRight 1s ease-in;
+    animation: slideInFromRight 1.2s ease-in;
 
 }
 
